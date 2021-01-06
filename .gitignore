@@ -2,3 +2,18 @@
 
 .gradle
 .idea
+/build/classes/java/main/com/ehl3288/book/springboot/Application.class
+/build/reports/tests/test/css/base-style.css
+/build/reports/tests/test/classes/com.ehl3288.book.springboot.web.HelloControllerTest.html
+/build/reports/tests/test/packages/com.ehl3288.book.springboot.web.html
+/build/classes/java/main/com/ehl3288/book/springboot/web/HelloController.class
+/build/classes/java/test/com/ehl3288/book/springboot/web/HelloControllerTest.class
+/build/classes/java/main/com/ehl3288/book/springboot/web/dto/HelloResponseDto.class
+/build/classes/java/test/com/ehl3288/book/springboot/web/dto/HelloResponseDtoTest.class
+/build/reports/tests/test/index.html
+/build/test-results/test/binary/output.bin
+/build/test-results/test/binary/output.bin.idx
+/build/reports/tests/test/js/report.js
+/build/test-results/test/binary/results.bin
+/build/reports/tests/test/css/style.css
+/build/test-results/test/TEST-com.ehl3288.book.springboot.web.HelloControllerTest.xml
