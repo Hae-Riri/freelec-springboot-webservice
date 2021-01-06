@@ -1,7 +1,6 @@
 package com.ehl3288.book.springboot.domain.posts;
 
 import lombok.Builder;
-import lombok.Generated;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 
