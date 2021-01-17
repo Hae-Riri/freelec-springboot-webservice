@@ -24,10 +24,11 @@ repositories {
     mavenCentral()
 }
 
-dependencies { //의존성 선언
+dependencies { //의존성 선
     compile('org.springframework.boot:spring-boot-starter-web:')
     compile('org.projectlombok:lombok')
     testCompile('org.springframework.boot:spring-boot-starter-test:')
     compile('org.springframework.boot:spring-boot-starter-data-jpa') //jpa 추상화 라이브러리
     compile('com.h2database:h2') //별도 설치 없이 의존성만으로 관리 가능, 애플리케이션 시작할때마다 초기화됨
+    compile('org.springframework.boot:spring-boot-starter-mustache') //머스테치 추가
 }
