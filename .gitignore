@@ -2,6 +2,7 @@
 
 .gradle
 .idea
+application-oauth.properties
 /build/classes/java/main/com/ehl3288/book/springboot/Application.class
 /build/reports/tests/test/css/base-style.css
 /build/reports/tests/test/classes/com.ehl3288.book.springboot.web.HelloControllerTest.html
