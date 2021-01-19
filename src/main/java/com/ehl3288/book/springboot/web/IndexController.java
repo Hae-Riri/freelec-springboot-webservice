@@ -37,7 +37,7 @@ public class IndexController {
 //        SessionUser user = (SessionUser) httpSession.getAttribute("user");
 
         if(user != null){ //세션에 저장된 값이 있을 때만 model에 userName 으로 등록할 수 있음
-            model.addAttribute("userName", user.getName());
+            model.addAttribute("loginUserName", user.getName());
         }
         return "index";
     }
