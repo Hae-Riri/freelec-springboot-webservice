@@ -33,4 +33,7 @@ dependencies { //의존성 선
     compile('org.springframework.boot:spring-boot-starter-mustache') //머스테치 추가
     compile('org.springframework.boot:spring-boot-starter-security') //스프링시큐리티
     compile('org.springframework.boot:spring-boot-starter-oauth2-client') // 스프링 시큐리티 관련 의존성
+    compile('org.springframework.session:spring-session-jdbc')
+    testCompile("org.springframework.security:spring-security-test")
+
 }
